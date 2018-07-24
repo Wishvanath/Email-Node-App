@@ -1,0 +1,18 @@
+{
+  "name": "emailapp",
+  "version": "1.0.0",
+  "description": "This is the Email application through the nodemailer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wishvanath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.17.5",
+    "xoauth2": "^1.2.0"
+  }
+}
